@@ -2,7 +2,6 @@
 
 A modern, Streamlit-powered GenAI assistant for exploring PDF documents. Upload documents, get instant summaries, and chat with their contents using Gemini AI + LangChain.
 
-![App Screenshot](Screenshot%20(20).png)
 
 ---
 
