@@ -77,12 +77,6 @@ streamlit run app_with_addons.py
 | PyPDF2         | PDF text extraction                      |
 
 ---
-
-## 📸 Screenshot
-> ![Screenshot](Screenshot%20(20).png)
-
----
-
 ## 🚀 Deployment (Streamlit Cloud)
 1. Push this repo to GitHub
 2. Go to https://streamlit.io/cloud and log in with GitHub
