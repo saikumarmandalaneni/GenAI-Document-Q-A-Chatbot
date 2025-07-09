@@ -6,7 +6,7 @@ A modern, Streamlit-powered GenAI assistant for exploring PDF documents. Upload 
 ---
 
 ## 🧪 Demo
-> 🔗 [Live App Link](https://saikumarmandalaneni-genai-document-q-a-chatbot.streamlit.app) – Instantly chat with your PDFs.
+> 🔗 [Live App Link](https://genai-document-q-a-chatbot-ij4pokqpcwapacukjs6qcr.streamlit.app/) – Instantly chat with your PDFs.
 
 ---
 
